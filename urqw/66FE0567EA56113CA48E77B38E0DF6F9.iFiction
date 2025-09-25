@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ifindex version="1.0" xmlns="http://babel.ifarchive.org/protocol/iFiction/">
+	<story>
+		<identification>
+			<ifid>66FE0567EA56113CA48E77B38E0DF6F9</ifid>
+			<format>urqw</format>
+		</identification>
+		<bibliographic>
+			<title>Cursed City (Проклятый город)</title>
+			<author>Никита Беляев (Nikitoz)</author>
+			<language>ru</language>
+			<firstpublished>2006-12-15</firstpublished>
+			<genre>Боевик</genre>
+			<group>URQ</group>
+			<description>Итак, ты сержант полиции города Ракун Сити. Конечно, это не самая престижная должность, но на жизнь хватает.<br/>Создателем данного творения являюсь я: Беляев Никита aka Nikitoz.<br/>Портирование под FireURQ - Chicago1920 (ICQ 254881271, e-mail Chicago1920@mail.ru)<br/>Просьба присылать все комментарии на мыло: Nikitozbel@mail.ru</description>
+		</bibliographic>
+		<contacts>
+			<url>https://urqw.github.io/UrqW/#cursed_city</url>
+			<authoremail>nikitozbel@mail.ru, chicago1920@mail.ru</authoremail>
+		</contacts>
+		<colophon>
+			<generator>UrqW Game Template</generator>
+			<originated>2025-09-24</originated>
+		</colophon>
+	</story>
+</ifindex>
